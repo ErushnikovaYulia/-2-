@@ -1,0 +1,15 @@
+C:\Users\Vit\Desktop\задача из проверочной\bin\Debug\net6.0\задача из проверочной.exe
+C:\Users\Vit\Desktop\задача из проверочной\bin\Debug\net6.0\задача из проверочной.deps.json
+C:\Users\Vit\Desktop\задача из проверочной\bin\Debug\net6.0\задача из проверочной.runtimeconfig.json
+C:\Users\Vit\Desktop\задача из проверочной\bin\Debug\net6.0\задача из проверочной.dll
+C:\Users\Vit\Desktop\задача из проверочной\bin\Debug\net6.0\задача из проверочной.pdb
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.csproj.AssemblyReference.cache
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.AssemblyInfoInputs.cache
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.AssemblyInfo.cs
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.dll
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\refint\задача из проверочной.dll
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.pdb
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\задача из проверочной.genruntimeconfig.cache
+C:\Users\Vit\Desktop\задача из проверочной\obj\Debug\net6.0\ref\задача из проверочной.dll
